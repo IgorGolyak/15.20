@@ -1,0 +1,6 @@
+C:\Users\golya\source\repos\Default\ssd\obj\Debug\ssd.csproj.CoreCompileInputs.cache
+C:\Users\golya\source\repos\Default\ssd\bin\Debug\ssd.exe.config
+C:\Users\golya\source\repos\Default\ssd\bin\Debug\ssd.exe
+C:\Users\golya\source\repos\Default\ssd\bin\Debug\ssd.pdb
+C:\Users\golya\source\repos\Default\ssd\obj\Debug\ssd.exe
+C:\Users\golya\source\repos\Default\ssd\obj\Debug\ssd.pdb

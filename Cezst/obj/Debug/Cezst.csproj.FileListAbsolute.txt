@@ -1,0 +1,6 @@
+C:\Users\golya\source\repos\Default\Cezst\bin\Debug\Cezst.exe.config
+C:\Users\golya\source\repos\Default\Cezst\bin\Debug\Cezst.exe
+C:\Users\golya\source\repos\Default\Cezst\bin\Debug\Cezst.pdb
+C:\Users\golya\source\repos\Default\Cezst\obj\Debug\Cezst.csproj.CoreCompileInputs.cache
+C:\Users\golya\source\repos\Default\Cezst\obj\Debug\Cezst.exe
+C:\Users\golya\source\repos\Default\Cezst\obj\Debug\Cezst.pdb
